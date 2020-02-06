@@ -13,7 +13,8 @@ public class GrammarChecker {
         
         
     public SpellChecker getSpellChecker() {
-	return sc;
+        return sc;
+        
     }
 
     public void setSpellChecker(SpellChecker sc) {
